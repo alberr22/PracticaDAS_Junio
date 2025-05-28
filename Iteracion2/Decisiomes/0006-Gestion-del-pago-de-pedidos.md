@@ -2,9 +2,9 @@
 
 * Status: Accepted
 * Date: 18/02/2025
-* Decision-Makers: Alejandro Rico, Daniel Rong
-* Consulted: Elena Ceinos, Gaizka Aranbarri
-* Informed: Jon Mazcuñán, Alberto Acebes, Pablo Villamayor
+* Decision-Makers: Alejandro Rico, Elena Ceinos
+* Consulted:  Gaizka Aranbarri, Alberto Acebes
+* Informed: Jon Mazcuñán, Pablo Villamayor
 
 ---
 
