@@ -54,11 +54,3 @@ Se selecciona PostgreSQL como gestor SQL principal para los microservicios debid
 
 ---
 
-## Arquitectura propuesta
-
-- Cada microservicio tendrá su **propia instancia de PostgreSQL**, siguiendo el patrón **Database-per-Service**.
-- Se gestionará el acceso con un ORM compatible (Entity Framework, SQLAlchemy, Hibernate, etc.).
-- Las conexiones estarán protegidas por autenticación por usuario y contraseña, y roles específicos por servicio.
-- Se implementará el patrón Repository para desacoplar lógica de negocio y persistencia.
-
----
